@@ -1,0 +1,21 @@
+{
+  "name": "aut",
+  "version": "1.0.0",
+  "description": "testing automation cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "cypress",
+    "telefonica"
+  ],
+  "author": "Julieta Ponce",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  }
+}

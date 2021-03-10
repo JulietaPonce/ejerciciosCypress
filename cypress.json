@@ -1,0 +1,7 @@
+{
+    "Datos": "Urls páginas",
+    "env":{
+        "planes_url": "/planes",
+        "negocio_url": "/negocios"
+    }
+}
